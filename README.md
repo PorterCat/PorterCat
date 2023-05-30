@@ -10,3 +10,6 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PorterCat&theme=synthwave-84&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
+
+ 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PorterCat&layout=compact&theme=buefy&hide_border=true" /></a> |
